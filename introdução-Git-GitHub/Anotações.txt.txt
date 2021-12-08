@@ -1,0 +1,14 @@
+Anotações Git/ GitHub
+
+dir = diretório (pasta de arquivo)
+cd / = comando de entrada para alguma pasta (ex: "cd /c/workspace/livro-receitas", entra na pasta livro-receita)
+TAB = função de auto completar
+mkdir = cria uma pasta de arquivo pelo terminal Git Bash
+rmdir = remove o repositório (pasta) inteiro (ex: rmdir workspace /s/q)
+
+Criando um COMMIT (pelo Git Bash)
+$ git config --global user.email "seuemail@email.com"
+$ git config --global user.name "Seu Nome"
+$ git add 
+$ git commit -m "comentário claro do que esta fazendo nesse commit"
+ 
